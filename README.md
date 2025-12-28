@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=print-hasaesh" alt="print-hasaesh" /></a> </p>
 
-- 🌱 I’m currently learning **Currently learning web scraping with Python (BeautifulSoup, Requests).**
+- 🌱 I’m currently learning **web scraping with Python (BeautifulSoup, Requests).**
 
 - 📫 How to reach me **sandipshampang9@gmail.com**
 
